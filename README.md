@@ -7,7 +7,15 @@ When looking at the family income with the health data, we can identify if any o
 
 ## Target Questions
 How does children’s health compare between different household incomes?
+
 Does their income level affect their access to healthcare?
+
+## Tableau Story
+
+![alt text](images/Story%201.png)
+![alt text](images/Story%202.png)
+![alt text](images/Story%203.png)
+![alt text](images/Story%204.png)
 
 ## Dataset
 [Kaggle 2013-2014 NHANES dataset](https://www.kaggle.com/datasets/cdc/national-health-and-nutrition-examination-survey)
